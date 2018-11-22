@@ -1,2 +1,2 @@
 # JqueryshadowDom
-Creation of Shadow Dom in Page using Jquery
+* Plugin for Jquery to help with the creation of Shadow Dom elements - and manipulating the content inside of them dynamically.
