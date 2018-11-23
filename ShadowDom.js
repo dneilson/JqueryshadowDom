@@ -11,8 +11,8 @@
     $($(this).prop('shadowRoot')).find('html').prop('innerHTML', '<head></head><body></body>');
    } else {
     $('#'+id).remove()
-      $(this).css('display','none')
-      this["0"].attachShadow({mode:'open'});
+    $(this).css('display','none')
+    this["0"].attachShadow({mode:'open'});
     $(this).appendTo('body')
     $($(this).prop('shadowRoot')).append('<div/>')
     $($(this).prop('shadowRoot')).wrapInner('<body/>')
