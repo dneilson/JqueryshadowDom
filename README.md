@@ -66,4 +66,4 @@ $.Shadow({
 ```
 ----
 
-* Check out Some Examples --> http://jsfiddle.net/wczjrtv8/8/
+* Check out Some Examples --> http://jsfiddle.net/wczjrtv8/20/
